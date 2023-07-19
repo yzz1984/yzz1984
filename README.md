@@ -1,6 +1,14 @@
- 
- 
 ### Hi there 👋
+
+```
+
+  \      ^..^
+   \_____/\_\
+   /\   /\   - welcome to y3367's
+  /  \ /  \    github profile!
+  
+(greeting dog)
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y3367&label=Profile%20views&color=0e75b6&style=flat" alt="y3367" /> </p>
 
