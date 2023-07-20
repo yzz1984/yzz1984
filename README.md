@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y3367&label=Profile%20views&color=0e75b6&style=flat" alt="y3367" /> </p>
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=y3367" /> </p>
+<!-- <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=y3367" /> </p> -->
 
 ```
 
